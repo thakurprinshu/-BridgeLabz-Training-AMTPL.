@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace basics.Collections
+namespace basics.LinkedList
 {
     internal class LinkedList
     {
