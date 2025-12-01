@@ -11,6 +11,18 @@ email validation
 password validation
 phone number validation
 
+28/11/2025
+
+I worked on Annotations
+
+1/12/2025
+
+i worked on LINQ , solved basic LINQ operations
+
+
+
+
+
 
 
 
