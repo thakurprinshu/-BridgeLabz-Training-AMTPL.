@@ -17,7 +17,13 @@ I worked on Annotations
 
 1/12/2025
 
-i worked on LINQ , solved basic LINQ operations
+I worked on LINQ , solved basic LINQ operations
+
+2/12/2025
+
+I worked on advansced problems based on LINQ also implemented DateTime feature
+
+
 
 
 
