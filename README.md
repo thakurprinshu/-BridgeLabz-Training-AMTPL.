@@ -23,6 +23,14 @@ I worked on LINQ , solved basic LINQ operations
 
 I worked on advansced problems based on LINQ also implemented DateTime feature
 
+3/12/2025
+
+I worked on Reflections,Events,Closures,Delegates 
+also implemented calculator using delegates
+
+
+
+
 
 
 
