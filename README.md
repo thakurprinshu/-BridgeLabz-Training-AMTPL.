@@ -28,6 +28,14 @@ I worked on advansced problems based on LINQ also implemented DateTime feature
 I worked on Reflections,Events,Closures,Delegates 
 also implemented calculator using delegates
 
+4/12/2025
+
+Completed the theory parts on file IO , worksed with CSV files and implemented it on 
+Adddressbook
+
+
+
+
 
 
 
